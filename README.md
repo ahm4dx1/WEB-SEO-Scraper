@@ -1,6 +1,6 @@
 # WEB-SEO-Scraper 🚀
 
-A Python tool to scrape website data, extract SEO insights, and gather social media/contact details.
+A Python tool to scrape website data, extract SEO insights, and gather social media or contact details.
 
 ## 📌 Features
 - ✅ Extracts emails, phone numbers, and social media links from websites  
